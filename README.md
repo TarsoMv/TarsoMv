@@ -1,4 +1,4 @@
-# Tarso Maia Vianna
+# Tarso Maia
 
 Estudante de Sistemas de informação com foco em **desenvolvimento backend, engenharia de dados e IA aplicada**. Gosto de construir soluções que unem lógica robusta com dados bem estruturados.
 
