@@ -1,16 +1,35 @@
-## Hi there 👋
+# Tarso Maia Vianna
 
-<!--
-**TarsoMv/TarsoMv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de informação com foco em **desenvolvimento backend, engenharia de dados e IA aplicada**. Gosto de construir soluções que unem lógica robusta com dados bem estruturados.
 
-Here are some ideas to get you started:
+## Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linguagens:**
+
+Python • Java • JavaScript • SQL
+
+**Desenvolvimento Web:**
+
+Flask • APIs REST • HTML • CSS
+
+**Banco de Dados:**
+
+PostgreSQL • MySQL
+
+**Ferramentas e Tecnologias**
+
+Git • Linux • Selenium • Pytest
+
+## Áreas de Interesse
+
+* Backend Development
+* Engenharia de Dados
+* Inteligência Artificial aplicada
+* CyberSegurança
+
+## Contato
+Entre em contato comigo 😊
+
+LinkedIn:[ https://linkedin.com/tarso-maia](https://www.linkedin.com/in/tarso-maia-26ab55319/)
+
+Email: [tarsom27v@gmail.com](mailto:tarsom27v@gmail.com)
